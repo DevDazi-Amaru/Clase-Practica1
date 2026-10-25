@@ -1,1 +1,13 @@
+# Secretos
+.env
+# Registros
+*.log
+# Carpetas generadas
+temp/
+# Sistema
+.DS_Store
+Thumbs.db
+# otros 
 secretos.txt
+
+
