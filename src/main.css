@@ -47,5 +47,12 @@ padding: 4px 10px;
 border-radius: 6px; 
 }
 
-footer { text-align: center; padding: 24px; color:
-#6b7280; }
+footer { 
+text-align: center; 
+padding: 24px; 
+color: #6b7280; 
+}
+
+section:hover {
+box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+}
